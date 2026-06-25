@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    background-color: navajowhite;
+    color: deeppink;
+    border:5px double black;
+    font-family: AkrutiTml2, "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 35px;
+}
